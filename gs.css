@@ -1,7 +1,40 @@
-.CANDACE{
-    color: blue;
-}
+
+
 .name{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
+    color: red;
+}
+.CANDACE{
+    color: blue;
+}
+
+.MARY{
+    color: green;
+}
+.direction{
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    color: black;
+}
+.direction:hover{
+    background-color: thistle ;
+    color: aquamarine;
+}
+.Speech{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.aTable{
+    border: 1px solid black;
+    color: black;
+    border-collapse: collapse;
+    padding-right: 5px;
+    margin: 5px 10px 5px 10px;
+    white-space: nowrap;
+    text-align: center;
+    width: 50%;
+    height: 150px;
 }
