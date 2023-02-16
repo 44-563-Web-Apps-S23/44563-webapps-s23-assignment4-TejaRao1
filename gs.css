@@ -32,12 +32,14 @@
 .tb{
     border: 5px solid green;
     text-align: center;
-    width: 30%;
+    width: fit-content;
 }
 .Table{
     height: 10px;
     vertical-align: bottom;
     padding: 10px;
+    border-collapse: collapse;
+
 
 }
 .bonus image{
