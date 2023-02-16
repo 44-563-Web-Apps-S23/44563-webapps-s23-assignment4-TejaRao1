@@ -11,6 +11,8 @@
 
 .MARY{
     color: green;
+    text-shadow: 10px 10px 7px grey;
+    height: 50px;
 }
 .direction{
     background-color: beige;
@@ -38,4 +40,7 @@
     vertical-align: bottom;
     padding: 10px;
 
+}
+.Shadow{
+        
 }
