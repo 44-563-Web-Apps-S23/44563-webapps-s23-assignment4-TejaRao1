@@ -42,10 +42,25 @@
 
 
 }
-.bonus image{
-    margin: 10px;
+ul.horiz_navbar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
-        
-.p{
-    margin: 5px;
+ul.horiz_navbar li 
+{
+    float:left; 
+    color:greenyellow;
+    background-color: #b6d3da
+}
+ul.horiz_navbar a 
+{
+    display:block;
+    padding:8px
+}
+ul.horiz_navbar a:hover 
+{  
+    background-color: #74f3a9;
+    color:white;
 }
