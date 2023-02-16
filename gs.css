@@ -34,13 +34,16 @@
     text-align: center;
     width: 30%;
 }
-
 .Table{
     height: 10px;
     vertical-align: bottom;
     padding: 10px;
 
 }
-.Shadow{
+.bonus image{
+    margin: 10px;
+}
         
+.p{
+    margin: 5px;
 }
